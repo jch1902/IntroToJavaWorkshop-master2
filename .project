@@ -14,4 +14,16 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Mark Ronson - Uptown Funk ft. Bruno Mars</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Mark%20Ronson%20-%20Uptown%20Funk%20ft.%20Bruno%20Mars</locationURI>
+		</link>
+		<link>
+			<name>src/Mark Ronson - Uptown Funk ft. Bruno Mars.mp3</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Mark%20Ronson%20-%20Uptown%20Funk%20ft.%20Bruno%20Mars.mp3</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
